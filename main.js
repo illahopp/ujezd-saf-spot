@@ -1,4 +1,4 @@
-window.addEventListener("load", function() {
+/* window.addEventListener("load", function() {
 	let newVideo = document.querySelector("#vid")
 	newVideo.addEventListener("ended", function() {
 		this.currentTime = 0
@@ -6,4 +6,6 @@ window.addEventListener("load", function() {
 	}, false)
 
 	newVideo.play()
-})
+}) 
+
+*/
