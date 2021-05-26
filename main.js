@@ -6,5 +6,5 @@
 	}, false)
 
 	newVideo.play()
-}) 
+}) */
 
